@@ -9,7 +9,6 @@ const port = process.env.PORT || 3000;
 
 // Middlewares
 app
-  .use(favicon(__dirname + "/hum.ico"))
   .use(morgan("dev"))
   .use(bodyParser.json());
 
