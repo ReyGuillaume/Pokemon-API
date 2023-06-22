@@ -1,5 +1,3 @@
-TBD
-
 # POKEMON API
 
 ## Prérequis 
